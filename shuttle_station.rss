@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Space Station News</title>
+ <description>A RSS news feed containing the latest NASA press releases on the International Space Station.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/shuttle_station.rss" />
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>Media Invited to News Conference with NASA Astronaut Anne McClain and Space Station Crewmates</title>
+ <link>http://www.nasa.gov/press-release/media-invited-to-news-conference-with-nasa-astronaut-anne-mcclain-and-space-station</link>
+ <description>NASA astronaut Anne McClain, along with her crewmates, David Saint-Jacques of the Canadian Space Agency and Oleg Kononenko of the Russian space agency Roscosmos, will discuss their upcoming mission to the International Space Station in a news conference at 2 p.m. EDT Thursday, Sept. 6, at NASA’s Johnson Space Center in Houston.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jsc2018e043409medium.jpg?itok=bHxar4nE" length="201082" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/media-invited-to-news-conference-with-nasa-astronaut-anne-mcclain-and-space-station</guid>
+ <pubDate>Thu, 30 Aug 2018 11:24 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/shuttle_station.rss">Space Station News</source>
+</item>
+ <item> <title>NASA Astronaut to Speak with Students, Parents, Teachers at YouthSpark</title>
+ <link>http://www.nasa.gov/press-release/nasa-astronaut-to-speak-with-students-parents-teachers-at-youthspark</link>
+ <description>Students attending Microsoft’s YouthSpark event will have the opportunity to speak with NASA astronauts aboard the International Space Station next week as part of NASA’s Year of Education on Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/rickyarnold_0.jpg?itok=EkAWzv4p" length="2357262" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-astronaut-to-speak-with-students-parents-teachers-at-youthspark</guid>
+ <pubDate>Fri, 10 Aug 2018 11:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/shuttle_station.rss">Space Station News</source>
+</item>
+ <item> <title>NASA Television to Air Russian Spacewalk at International Space Station</title>
+ <link>http://www.nasa.gov/press-release/nasa-television-to-air-russian-spacewalk-at-international-space-station</link>
+ <description>Russian cosmonauts living and working on the International Space Station will venture outside Wednesday, Aug. 15, for a spacewalk expected to last about six hours. Live coverage of the excursion will air on NASA Television and the agency’s website.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/7840867942_7aedf99d1f_k.jpg?itok=fKdOlDxg" length="968960" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-television-to-air-russian-spacewalk-at-international-space-station</guid>
+ <pubDate>Thu, 09 Aug 2018 13:36 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/shuttle_station.rss">Space Station News</source>
+</item>
+ <item> <title>NASA Invests in Concepts for a Vibrant Future Commercial Space Economy</title>
+ <link>http://www.nasa.gov/press-release/nasa-invests-in-concepts-for-a-vibrant-future-commercial-space-economy</link>
+ <description>In an ongoing effort to foster commercial activity in space, NASA has selected 13 companies to study the future of commercial human spaceflight in low-Earth orbit, including long-range opportunities for the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/28768197587_d654f6ca13_k.jpg?itok=KZEtV1hH" length="884943" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invests-in-concepts-for-a-vibrant-future-commercial-space-economy</guid>
+ <pubDate>Wed, 08 Aug 2018 17:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/shuttle_station.rss">Space Station News</source>
+</item>
+ <item> <title>NASA Television, Website to Air Critical Conversations on Science in Space</title>
+ <link>http://www.nasa.gov/press-release/nasa-television-website-to-air-critical-conversations-on-science-in-space</link>
+ <description>NASA will join counterparts from across government, industry, academia and international organizations for an indepth conversation about science on the International Space Station Monday, July 23, through Thursday, July 26, in San Francisco.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/m18-108.jpg?itok=pqeoujhY" length="468891" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-television-website-to-air-critical-conversations-on-science-in-space</guid>
+ <pubDate>Wed, 18 Jul 2018 12:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/shuttle_station.rss">Space Station News</source>
+</item>
+ <item> <title>Students from Missouri, Mississippi to Call Space Station</title>
+ <link>http://www.nasa.gov/press-release/students-from-missouri-mississippi-to-call-space-station</link>
+ <description>Students in St. Louis and southern Mississippi will get to ask questions of NASA astronauts on the International Space Station during two events next week as part of NASA’s Year of Education on Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/iss056e014502_0.jpg?itok=2S2OUZHf" length="3877655" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/students-from-missouri-mississippi-to-call-space-station</guid>
+ <pubDate>Fri, 13 Jul 2018 11:24 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/shuttle_station.rss">Space Station News</source>
+</item>
+ <item> <title>Coverage Set for Departure of US Cargo Ship from International Space Station</title>
+ <link>http://www.nasa.gov/press-release/coverage-set-for-departure-of-us-cargo-ship-from-international-space-station</link>
+ <description>Nearly two months after Orbital ATK, now part of Northrop Grumman, delivered several tons of supplies and scientific experiments to the International Space Station aboard its Cygnus cargo spacecraft, the spacecraft is set to depart the orbiting laboratory Sunday, July 15.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/iss053e311637_0.jpg?itok=82tolpiw" length="6366299" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/coverage-set-for-departure-of-us-cargo-ship-from-international-space-station</guid>
+ <pubDate>Wed, 11 Jul 2018 14:07 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/shuttle_station.rss">Space Station News</source>
+</item>
+ <item> <title>NASA Names Six New Flight Directors to Lead Mission Control</title>
+ <link>http://www.nasa.gov/press-release/nasa-names-six-new-flight-directors-to-lead-mission-control</link>
+ <description>NASA has selected six women and men to join the elite corps of flight directors who will lead mission control for a variety of new operations at the agency’s Johnson Space Center in Houston.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jsc2018e061789.jpg?itok=nqWrr_zQ" length="6472403" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-names-six-new-flight-directors-to-lead-mission-control</guid>
+ <pubDate>Tue, 10 Jul 2018 10:07 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/shuttle_station.rss">Space Station News</source>
+</item>
+ <item> <title>Students from Ohio, Virginia, Maryland, Massachusetts to Call Space Station</title>
+ <link>http://www.nasa.gov/press-release/students-from-ohio-virginia-maryland-massachusetts-to-call-space-station</link>
+ <description>Next week astronauts aboard the International Space Station will host several downlinks as part of NASA’s Year of Education on Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/m18-106.jpg?itok=Ei4Ps14v" length="4266316" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/students-from-ohio-virginia-maryland-massachusetts-to-call-space-station</guid>
+ <pubDate>Fri, 06 Jul 2018 13:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/shuttle_station.rss">Space Station News</source>
+</item>
+ <item> <title>NASA TV to Air Launch, Docking of Russian Cargo Delivery to Space Station</title>
+ <link>http://www.nasa.gov/press-release/nasa-tv-to-air-launch-docking-of-russian-cargo-delivery-to-space-station</link>
+ <description>A Russian cargo ship loaded with almost three tons of food, fuel and supplies is set to launch to the International Space Station Monday, July 9. Live coverage of the spacecraft’s launch and docking will air on NASA Television and the agency’s website.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/m18-102.jpg?itok=pqr9cGK4" length="775400" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-tv-to-air-launch-docking-of-russian-cargo-delivery-to-space-station</guid>
+ <pubDate>Thu, 05 Jul 2018 14:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/shuttle_station.rss">Space Station News</source>
+</item>
+</channel>
+</rss>
